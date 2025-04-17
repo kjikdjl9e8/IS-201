@@ -1,0 +1,55 @@
+/* General body styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color:whitesmoke;
+    text-align: center;
+    padding: 50px;
+}
+
+/* Heading styles */
+h1 {
+    color: #00796b;
+}
+
+/* Paragraph styles */
+p {
+    color: #004d40;
+}
+
+/* Link styles */
+a {
+    color: #00796b;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Content block styles */
+.content-block {
+    margin: 20px auto;
+    padding: 20px;
+    border: 1px solid #00796b;
+    width: 80%;
+    background-color: #ffffff;
+}
+
+/* Ordered list styles */
+ol {
+    text-align:center;
+    margin: 0 auto;
+    display: inline-block;
+}
+
+/* Unordered list styles */
+ul {
+    margin-left: 20px;
+}
+
+/* Image styles */
+img {
+    width: 300px;
+    height: auto;
+    margin: 20px 0;
+}
